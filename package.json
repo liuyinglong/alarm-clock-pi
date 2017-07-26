@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "crypto": "0.0.3",
+    "node-schedule": "^1.2.3",
+    "optimist": "^0.6.1",
+    "request-promise": "^2.0.1"
+  }
+}
